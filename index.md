@@ -17,3 +17,6 @@ The goal is to build a recreational vehicle (RV) on a tempo traveller platform (
 3. Carpentry 
 4. Fabrication 
 5. And a few more 
+
+## Dimensions of the cabin space for the build 
+Cargo Box (L x W x H)	4653 X 1680 X 1830
