@@ -37,3 +37,7 @@ The 3rd design was to build a camper table with a cutting plan and upload to 3D 
 ![Image 19-11-20 at 12 41 PM](https://user-images.githubusercontent.com/73225133/99637502-f3cb0280-2a6a-11eb-8137-7d5414bf1768.jpg)
 
 ![Image 19-11-20 at 12 41 PM 2](https://user-images.githubusercontent.com/73225133/99638094-c6328900-2a6b-11eb-8656-4e8e27e27371.jpg)
+
+## First designs of the camper van - Mock up 
+With the skills learned over the week, I attempeted to build a very basic mock up of the interior of the van...
+
