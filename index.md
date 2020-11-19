@@ -21,11 +21,11 @@ The goal is to build a recreational vehicle (RV) on a tempo traveller platform (
 4. Fabrication 
 5. And a few more 
 
-# Week 1 
+# Week 2 
 The first week was dedicated to learn how to use 2D and 3D software . Given my project I focussewd on building skill on Sketch up. As a part of the learning series I have made 3D models and cutting plans for Garden bench and a small shelf. That gave me confidence in building a rough visual of my Camper van project.
 
 ## Small Shellf 
-The goal was to design and represent a basic 3D shelf 
+The goal was to design and represent a basic 3D book shelf 
 ![Image 19-11-20 at 12 30 PM](https://user-images.githubusercontent.com/73225133/99636138-09d7c380-2a69-11eb-910c-ed701fa9d5c3.jpg)
 
 ## Folding table 
@@ -39,10 +39,11 @@ The 3rd design was to build a camper table with a cutting plan and upload to 3D 
 ![Image 19-11-20 at 12 41 PM 2](https://user-images.githubusercontent.com/73225133/99638094-c6328900-2a6b-11eb-8656-4e8e27e27371.jpg)
 
 ## First designs of the camper van - Mock up 
-With the skills learned over the week, I attempeted to build a very basic mock up of the interior of the van...
+With the skills learned over the week, I attempeted to build a very basic mock up of the interior...Taking into consideration the key element of - motorcycle , dinette and a sofa cum bed.
+
 ![Image 19-11-20 at 12 45 PM](https://user-images.githubusercontent.com/73225133/99638583-72746f80-2a6c-11eb-8fe2-75f90e0e682a.jpg)
 
-The next step was to build more elements into the build. The components added
+The next step was to build incorporate more elements into the build. Components added
 1. Bed + Mattress
 2. Motorcycle
 3. Sofa cum bed
