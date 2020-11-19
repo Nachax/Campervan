@@ -21,5 +21,7 @@ The goal is to build a recreational vehicle (RV) on a tempo traveller platform (
 4. Fabrication 
 5. And a few more 
 
-## Dimensions of the cabin space for the build 
-Cargo Box (L x W x H)	4653 X 1680 X 1830
+## Week 1 
+The first week was dedicated to learn how to use 2D and 3D software . Given my project I focussewd on building skill on Sketch up. As a part of the learning series I have made 3D models and cutting plans for Garden bench and a small shelf. That gave me confidence in building a rough visual of my Camper van project.
+
+# Small Shellf 
