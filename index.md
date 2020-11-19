@@ -31,3 +31,7 @@ The goal was to design and represent a basic 3D shelf
 ## Folding table 
 Next was to come up with an idea of a folding table
 ![Image 19-11-20 at 12 43 PM](https://user-images.githubusercontent.com/73225133/99637098-5e2f7300-2a6a-11eb-8425-0a873b9f17e8.jpg)
+
+## Camper table with cutting plan
+The 3rd design was to build a camper table with a cutting plan and upload to 3D wearehouse ... the objective was to make a viable product design with accutrate mesurements and geometry.
+![Image 19-11-20 at 12 41 PM](https://user-images.githubusercontent.com/73225133/99637502-f3cb0280-2a6a-11eb-8137-7d5414bf1768.jpg)
