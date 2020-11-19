@@ -28,3 +28,6 @@ The first week was dedicated to learn how to use 2D and 3D software . Given my p
 The goal was to design and represent a basic 3D shelf 
 ![Image 19-11-20 at 12 30 PM](https://user-images.githubusercontent.com/73225133/99636138-09d7c380-2a69-11eb-910c-ed701fa9d5c3.jpg)
 
+## Folding table 
+Next was to come up with an idea of a folding table
+![Image 19-11-20 at 12 43 PM](https://user-images.githubusercontent.com/73225133/99637098-5e2f7300-2a6a-11eb-8425-0a873b9f17e8.jpg)
