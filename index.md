@@ -25,3 +25,5 @@ The goal is to build a recreational vehicle (RV) on a tempo traveller platform (
 The first week was dedicated to learn how to use 2D and 3D software . Given my project I focussewd on building skill on Sketch up. As a part of the learning series I have made 3D models and cutting plans for Garden bench and a small shelf. That gave me confidence in building a rough visual of my Camper van project.
 
 ## Small Shellf 
+The goal was to design and represent a basic 3D shelf 
+https://1drv.ms/u/s!AvS3T4V_aqiee3QR-QFJJ-E-Zm4?e=fhFUwP
