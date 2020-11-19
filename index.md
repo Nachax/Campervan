@@ -50,4 +50,13 @@ The next step was to build more elements into the build. The components added
 5. Storage units 
 6. Ladder
 7. Wardrobe
+8. Invisible bath cum toilet
+
+![Image 19-11-20 at 12 47 PM 2](https://user-images.githubusercontent.com/73225133/99639657-e2372a00-2a6d-11eb-99e1-8b738d7b2fde.jpg)
+
+![Image 19-11-20 at 12 48 PM](https://user-images.githubusercontent.com/73225133/99639694-eebb8280-2a6d-11eb-8a56-9e0a62a645e5.jpg)
+
+![Image 19-11-20 at 12 48 PM 2](https://user-images.githubusercontent.com/73225133/99639737-fd099e80-2a6d-11eb-9e4e-a9e04b81e26e.jpg)
+
+![Image 19-11-20 at 12 49 PM](https://user-images.githubusercontent.com/73225133/99639754-0561d980-2a6e-11eb-97b4-296ca404ff16.jpg)
 
