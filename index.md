@@ -41,3 +41,13 @@ The 3rd design was to build a camper table with a cutting plan and upload to 3D 
 ## First designs of the camper van - Mock up 
 With the skills learned over the week, I attempeted to build a very basic mock up of the interior of the van...
 ![Image 19-11-20 at 12 45 PM](https://user-images.githubusercontent.com/73225133/99638583-72746f80-2a6c-11eb-8fe2-75f90e0e682a.jpg)
+
+The next step was to build more elements into the build. The components added
+1. Bed + Mattress
+2. Motorcycle
+3. Sofa cum bed
+4. Sink and faucet
+5. Storage units 
+6. Ladder
+7. Wardrobe
+
