@@ -26,5 +26,5 @@ The first week was dedicated to learn how to use 2D and 3D software . Given my p
 
 ## Small Shellf 
 The goal was to design and represent a basic 3D shelf 
-<iframe src="https://onedrive.live.com/embed?cid=9EA86A7F854FB7F4&resid=9EA86A7F854FB7F4%21123&authkey=AMHr5nKoq4We4_c" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+
 
