@@ -26,5 +26,5 @@ The first week was dedicated to learn how to use 2D and 3D software . Given my p
 
 ## Small Shellf 
 The goal was to design and represent a basic 3D shelf 
-
+![Image 19-11-20 at 12 30 PM](https://user-images.githubusercontent.com/73225133/99636138-09d7c380-2a69-11eb-910c-ed701fa9d5c3.jpg)
 
