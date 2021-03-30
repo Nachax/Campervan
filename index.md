@@ -66,7 +66,7 @@ Week 3:
 ## Execution of the folding table 
 Based on the design created above the , I chose 20mm plywood for strength given its a self standing table with narrow support. 
 the cutting plan was fed into the CNC machine and wood placed for cutting.
-
+![A018DEA8-A134-48C9-8561-17FAA83EC328_1_105_c](https://user-images.githubusercontent.com/73225133/112980421-7e3d1480-9177-11eb-9b79-8c15390b9bf5.jpeg)
 
 
 
