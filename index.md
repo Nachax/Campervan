@@ -62,3 +62,12 @@ The next step was to build incorporate more elements into the build. Components 
 
 ![Image 19-11-20 at 12 49 PM](https://user-images.githubusercontent.com/73225133/99639754-0561d980-2a6e-11eb-97b4-296ca404ff16.jpg)
 
+Week 3:
+## Execution of the folding table 
+Based on the design created above the , I chose 20mm plywood for strength given its a self standing table with narrow support. 
+the cutting plan was fed into the CNC machine and wood placed for cutting.
+
+
+
+
+
